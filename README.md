@@ -1,4 +1,4 @@
-# Sign_Language_Detector-PyTorch
+# Sign_Language_Translator
 
 ## Set Up Instructions
 
